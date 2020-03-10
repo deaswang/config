@@ -1,0 +1,21 @@
+[user]
+	email = wholery@163.com
+	name = Frank
+[alias]
+    co = checkout
+    st = status
+    cm = commit -m
+    br = branch
+    ba = branch -a
+    bm = branch -m
+    bd = branch -D
+    cb = checkout -b
+    df = diff
+    ls = log --stat
+    lp = log -p
+    pr = pull --rebase
+[color]
+	ui = true
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+
